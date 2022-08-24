@@ -43,7 +43,7 @@ export default SearchCountryScreen;
 
 const styles = StyleSheet.create({
   container: {
-    padding: 250,
+    //padding: 250,
   },
   input: {
     paddingVertical: 5,
